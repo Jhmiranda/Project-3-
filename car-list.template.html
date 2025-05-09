@@ -1,0 +1,9 @@
+<input ng-model="$ctrl.query" placeholder="Search cars...">
+<ul>
+  <li ng-repeat="car in $ctrl.cars | filter:$ctrl.query | orderBy:$ctrl.orderProp">
+    <a href="#!/cars/{{car.id}}">
+      <img ng-src="{{car.imageUrl}}" alt="{{car.make}} {{car.model}}" width="100"><br>
+      {{car.make}} {{car.model}} ({{car.year}})
+    </a>
+  </li>
+</ul>

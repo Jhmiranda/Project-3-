@@ -1,0 +1,26 @@
+[
+  {
+    "id": "civic-2021",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "color": "White",
+    "imageUrl": "img/Honda_Civic_e-HEV_Sport_(XI)_–_f_30062024.jpg"
+  },
+  {
+    "id": "camry-2020",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "color": "Red",
+    "imageUrl": "img/images.jpg"
+  },
+  {
+    "id": "mustang-2022",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2022,
+    "color": "Red",
+    "imageUrl": "img/01-usnpx-2025fordmustang-angularfront-jms.jpg"
+  }
+]
