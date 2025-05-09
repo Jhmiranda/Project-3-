@@ -24,7 +24,7 @@ Watch the full walkthrough of the application on Loom:
 
 ---
 
-## ✅ Author
+##
 
 **Jose Miranda**  
 — Spring 2025, CIS 3110  
